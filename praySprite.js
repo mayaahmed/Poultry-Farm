@@ -51,9 +51,9 @@ Img.player.src="praying.jpg";
 Img.chickenFry = new Image();
 Img.chickenFry.src="chickenFry.jpg"; 
 Img.scene = new Image();
-Img.scene.src="back.JPG";
+Img.scene.src="back.jpg";
 Img.hide = new Image();
-Img.hide.src="hide.JPG";
+Img.hide.src="hide.jpg";
 var width=canvas.width, height=canvas.height, speed=3;
 
 
