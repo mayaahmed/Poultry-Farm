@@ -152,5 +152,6 @@ render();
 
 
 setInterval(function(){
-game();
+window.onload = function() {
+game(); }
 },1000/30);
