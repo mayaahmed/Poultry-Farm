@@ -47,9 +47,9 @@ height: 300
 
 var Img= {};
 Img.player = new Image();
-Img.player.src="praying.jpg"; 
+Img.player.src="praying.JPG"; 
 Img.chickenFry = new Image();
-Img.chickenFry.src="chickenFry.jpg"; 
+Img.chickenFry.src="chickenFry.JPG"; 
 Img.scene = new Image();
 Img.scene.src="back.JPG";
 Img.hide = new Image();
